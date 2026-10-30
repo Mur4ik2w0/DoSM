@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Перемены.371708f4\\x64\\Debug\\Переменые 24.09.26.obj",
+            "outputs": [
+                "Перемены.371708f4\\x64\\Debug\\Переменые 24.09.26.cpp.obj.dt.module.json",
+                "Перемены.371708f4\\x64\\Debug\\Переменые 24.09.26.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
